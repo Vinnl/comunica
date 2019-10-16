@@ -36,7 +36,7 @@
     "index.js"
   ],
   "peerDependencies": {
-    "@comunica/bus-rdf-metadata-extract": "^1.8.0",
+    "@comunica/bus-rdf-metadata-extract": "^1.9.3",
     "@comunica/core": "^1.8.0"
   },
   "devDependencies": {
