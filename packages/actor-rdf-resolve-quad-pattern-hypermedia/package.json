@@ -45,7 +45,7 @@
   "peerDependencies": {
     "@comunica/actor-rdf-metadata-extract-hydra-controls": "^1.0.0",
     "@comunica/bus-http-invalidate": "^1.0.0",
-    "@comunica/bus-rdf-dereference": "^1.0.0",
+    "@comunica/bus-rdf-dereference": "^1.9.3",
     "@comunica/bus-rdf-resolve-hypermedia": "^1.0.0",
     "@comunica/bus-rdf-resolve-hypermedia-links": "^1.0.0",
     "@comunica/bus-rdf-resolve-quad-pattern": "^1.0.0",
